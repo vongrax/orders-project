@@ -1,0 +1,5 @@
+export enum ProductsActionTypes {
+  FETCH_PRODUCTS = 'FETCH_PRODUCTS',
+  ADD_PRODUCT = 'ADD_PRODUCT',
+  CREATE_ORDER = 'CREATE_ORDER',
+}
